@@ -19,7 +19,7 @@ def clear_screen():
     three_lines()
     new_line()
     
-new_line
-three_lines
-nine_lines
-clear_screen
+new_line()
+three_lines()
+nine_lines()
+clear_screen()
